@@ -7,3 +7,5 @@ Snake Game Written In Python
 * time
 
 * random
+
+### BTW Nord Themed Game 
