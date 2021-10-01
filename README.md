@@ -2,8 +2,8 @@
 Snake Game Written In Python
 
 ## Libraries Used
-> turtle
+* turtle
  
-> time
+* time
 
-> random
+* random
