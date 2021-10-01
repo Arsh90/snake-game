@@ -1,4 +1,4 @@
-# snake-game
+# Snake
 Snake Game Written In Python
 
 ## Libraries Used
